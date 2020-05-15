@@ -23,6 +23,7 @@ Last update: 2020-04-24
 Includes versions up to 2020-02-xx
 
 If you've got a version not supported by RDP Wrapper and not posted here, feel free to open an issue with file version and download link to the msu/cab-file containing the version.
+Issues containing a termsrv.dll file will be deleted.
 
 Remember, that I won't determine offsets for Insider builds or preview updates. (Builds I know, which are missing are listed in the following section)
 
