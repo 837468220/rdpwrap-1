@@ -18,9 +18,9 @@ It will only contain non-Insider versions I'm able to get from the Microsoft Upd
 ## Version info:
 Currently this repo contains additional offsets (up to Windows 10 1803) for rdpwrap.ini with last change from 2018-10-10.
 
-Last update: 2020-04-24
+Last update: 2020-05-16
 
-Includes versions up to 2020-02-xx
+Includes versions up to 2020-05-12
 
 If you've got a version not supported by RDP Wrapper and not posted here, feel free to open an issue with file version and download link to the msu/cab-file containing the version.
 Issues containing a termsrv.dll file will be deleted.
